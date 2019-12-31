@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -39,6 +38,18 @@
 .website-name{
   color: white;
   font-family: 'Roboto', sans-serif;
-  font-size: larger;
-  padding-right: 5em;
+  font-size: large;
+  padding-right: 54em;
+}
+
+a.nav-item{
+  font-family: 'Roboto', sans-serif;
+  
+}
+a.nav-link{
+  display:inline-block;
+}
+
+div.navbar-nav{
+  display:inline-block;
 }
