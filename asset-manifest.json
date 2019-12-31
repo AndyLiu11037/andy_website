@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/andy_website/static/css/main.c899126d.chunk.css",
+    "main.js": "/andy_website/static/js/main.4f8e1484.chunk.js",
+    "main.js.map": "/andy_website/static/js/main.4f8e1484.chunk.js.map",
+    "runtime-main.js": "/andy_website/static/js/runtime-main.db7bae39.js",
+    "runtime-main.js.map": "/andy_website/static/js/runtime-main.db7bae39.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/andy_website/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.daf448f1.chunk.js": "/andy_website/static/js/2.daf448f1.chunk.js",
+    "static/js/2.daf448f1.chunk.js.map": "/andy_website/static/js/2.daf448f1.chunk.js.map",
+    "index.html": "/andy_website/index.html",
+    "precache-manifest.845d1d6140bad4c696291554f2f7261d.js": "/andy_website/precache-manifest.845d1d6140bad4c696291554f2f7261d.js",
+    "service-worker.js": "/andy_website/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/andy_website/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.c899126d.chunk.css.map": "/andy_website/static/css/main.c899126d.chunk.css.map",
+    "static/js/2.daf448f1.chunk.js.LICENSE": "/andy_website/static/js/2.daf448f1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/andy_website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db7bae39.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.daf448f1.chunk.js",
+    "static/css/main.c899126d.chunk.css",
+    "static/js/main.4f8e1484.chunk.js"
+  ]
+}
