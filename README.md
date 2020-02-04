@@ -16,3 +16,4 @@ Getting website to run on my mac
 - [ ] See if can animate things using js
 - [ ] link to linkedin and other relevant things
 - [ ] Create page dedicated to projects and things I used during the projects
+test update
